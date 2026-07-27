@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Presentation Viewer</title>
+    <title>Engineering Presentation Viewer</title>
     <style>
         body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; }
-        embed { width: 100%; height: 100%; }
+        iframe { width: 100%; height: 100%; border: none; }
     </style>
 </head>
 <body>
-    <!-- Using raw.githack.com for the PDF to ensure perfect loading -->
-    <embed src="https://raw.githack.com/LuisMendozaA/PPTX/main/Tra%C3%A7ado_Peru_2026-2035.pdf" type="application/pdf">
+    <!-- Using jsDelivr CDN + Microsoft Office Viewer -->
+    <iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https://cdn.jsdelivr.net/gh/LuisMendozaA/PPTX@main/Traçado_Peru_2026-2035.pptx"></iframe>
 </body>
 </html>
