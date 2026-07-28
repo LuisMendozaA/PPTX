@@ -1,0 +1,401 @@
+{
+  "meta": {
+    "titulo": "Traçado + Perú — Oportunidades de Ingeniería y Construcción 2026-2035",
+    "autor": "Traçado Engenharia / MHA",
+    "empresa": "Traçado Engenharia",
+    "fecha": "Julio 2026",
+    "version": "1.0"
+  },
+  "master": {
+    "fondo": "FFFFFF",
+    "barra_superior_color": "1A1A1A",
+    "barra_superior_altura": 0.4,
+    "texto_branding": "TRAÇADO ENGENHARIA | PERÚ 2026-2035",
+    "color_texto_pie": "999999",
+    "texto_pie": "Documento Confidencial · Julio 2026",
+    "color_acento": "2E5AAC",
+    "color_texto_principal": "1A1A1A",
+    "color_texto_secundario": "666666"
+  },
+  "slides": [
+    {
+      "tipo": "portada",
+      "titulo": "Traçado + Perú",
+      "subtitulo": "Oportunidades de Ingeniería y Construcción en el Mercado Peruano",
+      "kpis": [
+        {
+          "valor": "US$ 110+ bi",
+          "label": "Pipeline identificado"
+        },
+        {
+          "valor": "185 km",
+          "label": "NCC · Alta montaña"
+        },
+        {
+          "valor": "66",
+          "label": "Proyectos mineros"
+        }
+      ]
+    },
+    {
+      "tipo": "dos_columnas",
+      "titulo": "¿Por qué Perú ahora?",
+      "subtitulo": "Seis factores estructurales que hacen del Perú el destino prioritario para Traçado en los Andes.",
+      "columna_izq": [
+        "Estabilidad macroeconómica: economía dolarizada en contratos de gran porte, inflación controlada y reservas internacionales robustas.",
+        "Riqueza mineral de clase mundial: liderazgo regional en oro, zinco, plata, molibdeno y estaño (USGS).",
+        "Déficit estructural de infraestructura: brecha superior a S/ 92 bi hasta 2032 — demanda garantizada por años."
+      ],
+      "columna_der": [
+        "Marco APP consolidado: ProInversión con pipeline activo en todos los sectores.",
+        "Corredor logístico del Pacífico: Megapuerto de Chancay (>US$ 3 bi) reposiciona al Perú como hub Asia–Sudamérica.",
+        "Proximidad cultural y geográfica: frontera directa con Brasil, husos horarios cercanos y tradición de cooperación."
+      ]
+    },
+    {
+      "tipo": "kpi_grid",
+      "titulo": "Inversión identificada por sector",
+      "subtitulo": "Cartera 2026: más de US$ 110 mil millones en proyectos activos o en licitación.",
+      "kpis": [
+        {
+          "valor": "US$ 64,1 bi",
+          "label": "Minería · 66 proyectos (MINEM)",
+          "color": "2E5AAC"
+        },
+        {
+          "valor": "US$ 44,4 bi",
+          "label": "Infraestructura · 17 megaproyectos (MTC)",
+          "color": "1A1A1A"
+        },
+        {
+          "valor": "US$ 2,5 bi",
+          "label": "Agua/Saneamiento · 8 APP",
+          "color": "2E5AAC"
+        },
+        {
+          "valor": "US$ 903 mi",
+          "label": "Energía · 18 proyectos (ProInversión)",
+          "color": "1A1A1A"
+        }
+      ],
+      "nota": "El dato clave: la minería sigue siendo el motor económico, pero agua, energía e infraestructura ofrecen ventanas de entrada con menor competencia para ingenierías internacionales como Traçado."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Minería — Principales proyectos cupríferos y polimetálicos",
+      "subtitulo": "21 proyectos entran en operación entre 2026 y 2032. Cartera de exploración: US$ 757 millones adicionales.",
+      "tabla": {
+        "headers": [
+          "Proyecto",
+          "Empresa",
+          "Inversión",
+          "Estado 2026",
+          "Región"
+        ],
+        "rows": [
+          [
+            "La Granja",
+            "Rio Tinto",
+            "US$ 5.000 mi",
+            "Estudios avanzados",
+            "Cajamarca"
+          ],
+          [
+            "El Galeno",
+            "Jiangxi Copper",
+            "US$ 3.500 mi",
+            "Ingeniería",
+            "Cajamarca"
+          ],
+          [
+            "Río Blanco",
+            "Zijin Mining",
+            "US$ 2.792 mi",
+            "Licenciamiento",
+            "Piura"
+          ],
+          [
+            "Michiquillay",
+            "Southern Copper",
+            "US$ 2.500 mi",
+            "Estudios · inicio 2032",
+            "Cajamarca"
+          ],
+          [
+            "Los Chancas",
+            "Southern Copper",
+            "~US$ 2.600 mi",
+            "Estudios · 2030-2032",
+            "Apurímac"
+          ],
+          [
+            "Pampa de Pongo",
+            "Jinzhao Mining",
+            "US$ 2.344 mi",
+            "Construcción 2027-2029",
+            "Arequipa"
+          ],
+          [
+            "Tía María",
+            "Southern Copper",
+            "US$ 1.802 mi",
+            "En construcción",
+            "Arequipa"
+          ]
+        ]
+      },
+      "tags": [
+        "Terraplenaje",
+        "Presas de relaves",
+        "Plantas de proceso",
+        "Túneles",
+        "Líneas de transmisión",
+        "EPCM"
+      ]
+    },
+    {
+      "tipo": "dos_columnas",
+      "titulo": "Agua, Saneamiento y Energía",
+      "subtitulo": "Sectores con aceleración de APP y demanda de ingeniería.",
+      "columna_izq": [
+        "AGUA Y SANEAMIENTO",
+        "Obras de Cabecera y Conducción (Fase 1): US$ 696 mi — Lima Este/Sur, 1,5 millón de personas.",
+        "PTAR Trujillo: US$ 670 mi — 3 plantas, 852 mil habitantes.",
+        "PTAR Huancayo: US$ 410 mi — 570 mil habitantes.",
+        "Desaladora Ilo: US$ 174 mi — 133 mil habitantes.",
+        "PTAR Puerto Maldonado: US$ 150 mi — 197 mil habitantes, concesión 23 años."
+      ],
+      "columna_der": [
+        "ENERGÍA",
+        "Enlace 500 kV Miguel Grau–Pariñas + SE Pariñas: transmisión 500 kV en Piura.",
+        "Central Fotovoltaica Las Joyas: US$ 252 mi — generación solar en Arequipa.",
+        "San Román–Yocara–Maravilla: US$ 135 mi — transmisión en Puno.",
+        "Grupo 4 · Plan de Transmisión 2025-2034: US$ 145 mi — 5 proyectos en San Martín, Junín, Ucayali, Ica, Tacna.",
+        "Enlace 220 kV Los Héroes–Garita: US$ 36 mi — transmisión en Tacna."
+      ]
+    },
+    {
+      "tipo": "ncc_destacado",
+      "titulo": "Nueva Carretera Central (NCC)",
+      "subtitulo": "El reto de ingeniería en alta montaña que encaja perfectamente con el ADN de Traçado.",
+      "kpis": [
+        {
+          "valor": "185 km",
+          "label": "Longitud total"
+        },
+        {
+          "valor": "4.500",
+          "label": "msnm · altitud máxima"
+        },
+        {
+          "valor": "US$ 6.500 mm",
+          "label": "Inversión estimada"
+        },
+        {
+          "valor": "50+",
+          "label": "Túneles proyectados"
+        }
+      ],
+      "tramos": [
+        {
+          "nombre": "Tramo 1 · Lima Este – Cieneguilla – Valle Lurín",
+          "datos": "15 km | 300-650 msnm | US$ 1.000 mm",
+          "obras": "Túnel Pariachi (6 km), Viaducto de Lurín (80 m altura), empalme con Autopista Priale."
+        },
+        {
+          "nombre": "Tramo 2 · Huarochirí (Zona Alta Montaña)",
+          "datos": "120 km | hasta 4.000 msnm | US$ 4.000 mm",
+          "obras": "Mayor densidad de túneles del proyecto. Túnel Huarochirí (3,2 km), Túnel Yuracmayo (3,3 km), Túneles Tinajas Alta, TUN-1, TUN-2 + viaducto."
+        },
+        {
+          "nombre": "Tramo 3 · Divisoria de Aguas – Yauli – La Oroya",
+          "datos": "50 km | hasta 4.500 msnm | US$ 1.500 mm",
+          "obras": "Túnel Yauli (3 km), intercambiadores viales, conexión a Carretera Longitudinal de la Sierra."
+        }
+      ],
+      "magnitud": [
+        "33-36 km en túneles (más de 50 en total)",
+        "19 km en viaductos y puentes elevados",
+        "9 intercambiadores a desnivel",
+        "4.200 m de desnivel superado",
+        "Más de 10 túneles superan los 3 km",
+        "94 viaductos elevados sobre quebradas y taludes inestables"
+      ],
+      "highlight": "¿Por qué Traçado? Experiencia en pavimentación, túneles y obras de alta complejidad en terreno montañoso. El NCC es el proyecto perfecto para demostrar capacidad en los Andes."
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Infraestructura de Transporte — El mayor bloque de megaproyectos",
+      "subtitulo": "Rodovías, ferrocarriles, puertos y aeropuertos: US$ 44,4 mil millones en 17 megaproyectos (MTC).",
+      "tabla": {
+        "headers": [
+          "Proyecto",
+          "Inversión",
+          "Descripción"
+        ],
+        "rows": [
+          [
+            "Ferrocarril Lima–Ica (alta velocidad)",
+            "US$ 6.500 mi",
+            "323 km, 15 estaciones — financiamiento chino, obras desde 2026"
+          ],
+          [
+            "Ferrocarril Imata–Espinar–Cotabambas",
+            "US$ 4.523 mi",
+            "405 km — corredor Arequipa/Cusco/Apurímac hasta puerto de Matarani"
+          ],
+          [
+            "Megapuerto de Chancay",
+            ">US$ 3.000 mi",
+            "Operado por COSCO Shipping (60%) y Volcan (40%)"
+          ],
+          [
+            "Corredor Longitudinal de la Sierra – Sección 4",
+            "US$ 1.582 mi",
+            "965 km entre Huancayo, Ayacucho, Andahuaylas, Apurímac y Pisco"
+          ],
+          [
+            "Ferrocarril Chinchero–Cusco",
+            "US$ 853 mi",
+            "Conecta nuevo aeropuerto de Chinchero a Cusco"
+          ],
+          [
+            "Aeropuerto Internacional de Chinchero",
+            "US$ 550-578 mi",
+            "3.720 msnm — más de 7 millones de pasajeros/año previstos"
+          ],
+          [
+            "Ferrocarril Chancay–Sierra Central",
+            "US$ 420 mi",
+            "120 km — transporte de cobre y litio hasta Chancay"
+          ]
+        ]
+      }
+    },
+    {
+      "tipo": "dos_columnas",
+      "titulo": "¿Por qué Traçado encaja en Perú?",
+      "subtitulo": "De São Paulo a los Andes: una carta de ajuste perfecta entre capacidades brasileñas y necesidades peruanas.",
+      "columna_izq": [
+        "CAPACIDADES TRAÇADO",
+        "30+ años de experiencia en infraestructura vial, pavimentación y obras de montaña.",
+        "Especialización en túneles: uno de los activos más demandados en el NCC y en minería subterránea peruana.",
+        "Gestión de complejidad: obras en terreno difícil, altitud y condiciones climáticas adversas.",
+        "Modelos contractuales: experiencia en EPC, EPCM, CM y APP — los mismos que rigen el mercado peruano.",
+        "Proximidad cultural: lengua portuguesa/española, mismos husos horarios, tradición de cooperación Brasil-Perú."
+      ],
+      "columna_der": [
+        "NECESIDADES PERÚ",
+        "Túneles en alta montaña: NCC requiere 50+ túneles, varios >3 km, a más de 4.000 msnm.",
+        "Pavimentación y terraplenaje: Corredor Longitudinal de la Sierra, ferrocarriles Lima-Ica y Chancay-Sierra.",
+        "Gerenciamiento de obras: déficit crítico de PMO y Construction Management en proyectos de gran porte.",
+        "Obras de arte: 94 viaductos en el NCC, puentes en corredores mineros, obras portuarias.",
+        "Contenido local + know-how internacional: el Perú busca socios que aporten tecnología y generen empleo local."
+      ]
+    },
+    {
+      "tipo": "tabla",
+      "titulo": "Matriz de oportunidad — ¿Dónde debe actuar Traçado primero?",
+      "subtitulo": "Evaluación cualitativa del pipeline peruano según volumen, complejidad de entrada y atractivo para Traçado.",
+      "tabla": {
+        "headers": [
+          "Sector",
+          "Volumen de Proyectos",
+          "Complejidad de Entrada",
+          "Atractivo Traçado"
+        ],
+        "rows": [
+          [
+            "Minería",
+            "Muy alto",
+            "Alta (relacionamiento con majors)",
+            "Alta"
+          ],
+          [
+            "Infraestructura vial/ferroviaria",
+            "Alto",
+            "Media-alta (players chinos/estatales)",
+            "Media"
+          ],
+          [
+            "Agua y Saneamiento",
+            "Medio-alto",
+            "Media (APP consolidada)",
+            "Alta"
+          ],
+          [
+            "Energía (transmisión)",
+            "Medio",
+            "Media",
+            "Media"
+          ],
+          [
+            "Puertos y Aeropuertos",
+            "Medio",
+            "Alta (concesionarios ya definidos)",
+            "Media-baja"
+          ],
+          [
+            "Superestructura industrial",
+            "Creciente",
+            "Baja-media",
+            "Alta"
+          ]
+        ]
+      },
+      "nota": "Recomendación: Entrar primero por infraestructura vial (NCC y corredores) como especialista en túneles y obras de arte, y paralelamente posicionarse en minería como EPCM/CM. El agua y saneamiento ofrece menor competencia y mayor predictibilidad regulatoria."
+    },
+    {
+      "tipo": "fases",
+      "titulo": "Plan de entrada — De São Paulo a Lima en 4 fases",
+      "subtitulo": "Estrategia de bajo riesgo, alta curva de aprendizaje y construcción de referencias locales.",
+      "fases": [
+        {
+          "numero": "FASE 1",
+          "periodo": "Meses 1-6",
+          "titulo": "Representación Comercial",
+          "desc": "Establecer presencia comercial en Lima. Mapear decisores en MTC, Provías Nacional, ProInversión, MINEM y principales mineras. Participar en rondas de negocios y ferias (Perumin, CONEX)."
+        },
+        {
+          "numero": "FASE 2",
+          "periodo": "Meses 6-12",
+          "titulo": "Alianzas Locales",
+          "desc": "Formalizar joint ventures o alianzas estratégicas con ingenierías y constructoras peruanas (contenido local + know-how brasileño). Objetivo: cumplir requisitos de licitación y mitigar riesgo regulatorio."
+        },
+        {
+          "numero": "FASE 3",
+          "periodo": "Meses 12-24",
+          "titulo": "Licitaciones y Propuestas",
+          "desc": "Participar en procesos EPCM/PMC/CM en proyectos de medio porte (PTAR, transmisión, tramos viales) para construir referencias. Apuntar al NCC Tramo 2 (Huarochirí) como proyecto emblemático."
+        },
+        {
+          "numero": "FASE 4",
+          "periodo": "Meses 24-36",
+          "titulo": "Oficina Permanente",
+          "desc": "Establecer oficina local con equipo multidisciplinario (ingeniería, legal, comercial), anclada en contratos de largo plazo. Escalar hacia minería y ferrocarriles."
+        }
+      ]
+    },
+    {
+      "tipo": "conclusiones",
+      "titulo": "El momento es ahora",
+      "subtitulo": "Perú ofrece una ventana de oportunidad concreta para Traçado. La pregunta no es si entrar, sino cómo hacerlo de forma estructurada.",
+      "columna_izq": [
+        "CONCLUSIONES",
+        "El Perú concentra una de las mayores carteras de infraestructura de Latinoamérica: US$ 110+ bi en proyectos identificados.",
+        "La Nueva Carretera Central es el proyecto emblemático que encaja con el ADN de Traçado: túneles, alta montaña, complejidad técnica.",
+        "La minería, el agua y la infraestructura ofrecen ventanas de entrada con menor competencia para ingenierías internacionales.",
+        "La entrada estructurada en 4 fases reduce el riesgo comercial y acelera la curva de aprendizaje regulatorio."
+      ],
+      "columna_der": [
+        "PRÓXIMOS PASOS",
+        "Validar interés estratégico de la dirección de Traçado en el mercado peruano.",
+        "Agendar visita técnica a Lima: reuniones con Provías Nacional, ProInversión y potenciales socios locales.",
+        "Construir banco de datos de 100+ proyectos con Capex, cliente, estado y tipo de contrato.",
+        "Elaborar propuesta conjunta para el NCC Tramo 2 (Huarochirí) con socio local identificado.",
+        "Due diligence legal: confirmar requisitos de constitución, tributación y contenido local."
+      ],
+      "highlight": "Transformar la complejidad andina en ventaja competitiva — esa es la apuesta de Traçado en Perú."
+    }
+  ]
+}
